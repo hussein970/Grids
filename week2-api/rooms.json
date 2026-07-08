@@ -1,0 +1,13 @@
+{
+  "building": "Brotherton House",
+  "address": "1 Grace Street, Leeds, LS1 2FN",
+  "provider": "Study Inn",
+  "rooms": [
+    {"name": "Gold Apartment", "type": "Apartment", "price": 165, "size": 11, "available": true, "weeks": 51},
+    {"name": "Platinum Apartment", "type": "Apartment", "price": 185, "size": 12.5, "available": true, "weeks": 51},
+    {"name": "Sapphire Studio", "type": "Studio", "price": 275, "size": 23.5, "available": true, "weeks": 51},
+    {"name": "Gold Plus Apartment", "type": "Apartment", "price": 0, "size": 11, "available": false, "weeks": 0}
+  ]
+}
+
+
